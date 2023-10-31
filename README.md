@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN20xdWdnY285c3NnaHR4OTczaThsdGVmeGZleGUxbmh3MGVhY3pjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YN8AW0anbjbgK9cC9J/giphy.gif">
   </img>
 </div>
+
 ## Documentación de la Aplicación "Gestión de Verduras"
 
 ### Equipo:
